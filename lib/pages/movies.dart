@@ -12,7 +12,7 @@ class MoviesPage extends StatelessWidget {
           child: Column(
         children: [
           SizedBox(
-            height: 30,
+            height: 31,
           ),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 24),
